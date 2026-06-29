@@ -18,20 +18,6 @@ Built with **React Native**, **Expo**, and **Firebase**.
 
 </p>
 
----
-
-# 📱 Preview
-
-<p align="center">
-
-| Home | Product | Cart |
-|------|---------|------|
-| ![](docs/home.png) | ![](docs/product.png) | ![](docs/cart.png) |
-
-</p>
-
----
-
 # ✨ Overview
 
 **Telle Mère, Telle Fille** is a full-featured mobile e-commerce application that allows customers to browse decorative products, personalize event decorations, manage their shopping cart, and complete orders through an intuitive mobile experience.
